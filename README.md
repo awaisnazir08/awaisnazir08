@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awaisnazir08&label=Profile%20views&color=0e75b6&style=flat" alt="awaisnazir08" /> </p>
 
-- 🌱 I’m currently learning **deep learning and tensor flow from Coursera**
+- 🌱 I’m currently learning **deep learning and tensor flow from Coursera, and I am working on a search engine project for my Data Structures and Algorithms university course Semester Project**
 
 - 👯 I’m looking to collaborate on **AI projects**
 
