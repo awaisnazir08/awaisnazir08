@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awaisnazir08&label=Profile%20views&color=0e75b6&style=flat" alt="awaisnazir08" /> </p>
 
-- 🌱 I’m currently learning **deep learning and tensor flow from Coursera, and I am working on a search engine project for my Data Structures and Algorithms university course Semester Project**
+- 🌱 I’m currently learning **deep learning and tensor flow from Coursera, and Data Science from Datacamp; I also am working on a search engine project for my Data Structures and Algorithms university course Semester Project and a Full Stack Hospital Management System for my final Database course project**
 
 - 👯 I’m looking to collaborate on **AI projects**
 
