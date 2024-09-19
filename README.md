@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **AI projects**
 
-- 🤝 I’m looking for help with **Computer Vision and Generative AI learning and projects**
+- 🤝 I’m excited to work on **Computer Vision and Generative AI learning and projects**
 
-- 💬 Ask me about **react, machine learning, python, Deep learning, Convolutional neural networks**
+- 💬 Ask me about **Computer vision, machine learning, python, Deep learning, Convolutional neural networks, basic Data science**
 
 - 📫 How to reach me **owaisnazir2228@gmail.com**
 
