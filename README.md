@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awaisnazir08" alt="awaisnazir08" /></a> </p>
 
-- 🔭 I’m currently working on **research on Super Resolution to improve slum mapping.**
+- 🔭 I’m currently working on **detecting action events in videos..!!**
 
-- 🌱 I’m currently learning **Computer vision, Generative AI, DevOps, Cloud Computing and Web development.**
+- 🌱 I’m currently learning **Computer vision, Generative AI, DevOps, and Cloud Computing.**
 
 - 👯 I’m looking to collaborate on **AI projects and applications.**
 
